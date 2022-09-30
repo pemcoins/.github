@@ -1,6 +1,6 @@
 # PEMCO
 
-[Security Overview](https://github.com/orgs/pemcoins/security)
+[Security Overview Dashboard](https://github.com/orgs/pemcoins/security)
 
 All critical vulnerabilities must be patched within 30 days.
 
