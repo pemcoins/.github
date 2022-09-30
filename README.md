@@ -1,3 +1,3 @@
-# .github
+# PEMCOINS Organization *Public* Profile
 
-PEMCOINS Organization Profile
+This repository is visible to the internet so be on your best behavior.
