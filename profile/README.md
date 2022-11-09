@@ -2,6 +2,6 @@
 
 [Security Overview Dashboard](https://github.com/orgs/pemcoins/security)
 
-All critical and high vulnerabilities must be patched within 30 days.
+All critical and high vulnerabilities must be patched within 30 days from the time of the alert.
 
-Email security@pemco.com to report vulnerabilites.
+Email InformationSecurity@pemco.com to report vulnerabilites.
